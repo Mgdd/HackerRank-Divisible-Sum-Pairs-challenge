@@ -1,5 +1,5 @@
 # HackerRank-Divisible-Sum-Pairs-challenge
-Given an array of integers and a positive integer , determine the number of  pairs where  and  +  is divisible by .
+Given an array of integers and a positive integer K, determine the number of(i,j) pairs where i<j and ar[i] +ar[j] is divisible by k .
 
 Example
 ar=[1,2,3,4,5,6]
